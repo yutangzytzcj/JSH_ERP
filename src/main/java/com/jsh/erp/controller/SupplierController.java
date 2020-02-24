@@ -33,7 +33,7 @@ import java.util.Map;
 import static com.jsh.erp.utils.ResponseJsonUtil.returnJson;
 
 /**
- * @author ji|sheng|hua 华夏erp
+ * @author ji|sheng|hua 企业内部erp
  */
 @RestController
 @RequestMapping(value = "/supplier")

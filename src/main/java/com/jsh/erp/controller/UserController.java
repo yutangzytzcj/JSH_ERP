@@ -35,7 +35,7 @@ import java.util.concurrent.Executors;
 import static com.jsh.erp.utils.ResponseJsonUtil.returnJson;
 
 /**
- * @author ji_sheng_hua 华夏erp
+ * @author ji_sheng_hua 企业内部erp
  */
 @RestController
 @RequestMapping(value = "/user")

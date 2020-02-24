@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @author ji sheng hua 华夏ERP
+ * @author ji sheng hua 企业内部ERP
  */
 @RestController
 @RequestMapping(value = "/msg")

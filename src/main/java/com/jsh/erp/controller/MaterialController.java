@@ -31,7 +31,7 @@ import java.util.*;
 import static com.jsh.erp.utils.ResponseJsonUtil.returnJson;
 
 /**
- * @author ji|sheng|hua 华夏ERP
+ * @author ji|sheng|hua 企业内部ERP
  */
 @RestController
 @RequestMapping(value = "/material")
